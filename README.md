@@ -15,11 +15,11 @@ Parses plain-text and gzipped logs line-by-line, matches entries by severity lev
 `Python` · `argparse` · `re` · `dataclasses` · `gzip`
 
 log_analyzer/
-├── main.py          # CLI entry point
-├── parser.py        # Reads and chunks the log file
-├── matcher.py       # Applies regex patterns to find errors
-├── results.py       # Stores and sorts matches
-├── reporter.py      # Formats and writes output
-├── config.py        # CLI args and pattern definitions
-└── tests/
+├── main.py            # CLI entry point and application logic
+├── parser.py          # Log file reading and chunking utilities
+├── matcher.py         # Regex pattern application and error detection
+├── results.py         # Data storage and sorting for matches
+├── reporter.py        # Output formatting and file writing
+├── config.py          # CLI arguments and regex pattern definitions
+└── tests/             # Unit and integration testing suite
     └── test_matcher.py
