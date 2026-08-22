@@ -1,4 +1,4 @@
-# 🔍 Log File Analyzer
+# Log File Analyzer
 
 A Python CLI tool for searching and analyzing error messages in large log files.
 
