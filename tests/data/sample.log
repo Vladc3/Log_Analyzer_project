@@ -1,0 +1,10 @@
+2026-10-01 12:00:00 INFO Service started on port 8080
+2026-10-01 12:00:05 WARNING Disk usage at 85% on /var
+2026-10-01 12:01:10 ERROR Database connection failed: timeout after 30s
+2026-10-01 12:01:11 INFO Retrying database connection
+2026-10-01 12:01:15 ERROR Database connection failed: timeout after 30s
+2026-10-01 12:02:00 DEBUG Cache hit ratio 0.93
+2026-10-01 12:03:30 CRITICAL Out of memory, killing worker 4
+2026-10-01 12:04:00 INFO Health check passed, no errors found
+2026-10-01 12:05:00 WARNING Response time 2.4s exceeds threshold
+2026-10-01 12:06:00 INFO Shutting down
