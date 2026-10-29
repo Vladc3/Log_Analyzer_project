@@ -110,8 +110,4 @@ CI (GitHub Actions) runs the same ruff and pytest commands on Python 3.11 and 3.
 
 ## Built with Claude Code
 
-I built this with [Claude Code] as a coding assistant. I wrote the spec, reviewed every change and ran the tests.
-
-## What went wrong and how I fixed it
-
-<!-- TODO: fill in -->
+I built this with Claude Code as a coding assistant. I wrote the spec, reviewed every change and ran the tests.
